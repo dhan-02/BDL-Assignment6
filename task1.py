@@ -145,7 +145,7 @@ if __name__ == "__main__":
 
     # Check if the path to the model is provided as a command line argument
     if len(sys.argv) != 2:
-        print("Usage: python script.py <path_to_model>")
+        print("Usage: python task1.py <path_to_model>")
         sys.exit(1)
     
     # Run the FastAPI app
