@@ -35,8 +35,8 @@ performance of your API/model combo. <br />
 
 ## Performance
 Accuracy on handdrawn images (Task 2) : 50 %
-<br \>
-<br \>
+<br />
+<br />
 ![Screenshot from 2024-04-27 23-22-40](https://github.com/dhan-02/BDL-Assignment6/assets/74642765/bdf185b5-2515-404b-8126-8c28390825cf)
 
 
