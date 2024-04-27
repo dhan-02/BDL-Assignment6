@@ -43,6 +43,7 @@ def load_my_model(path: str) -> Sequential:
         # Load the model using the keras function
         loaded_model = load_model(path)
         return loaded_model
+    
     except IOError as e:
         raise IOError(f"Error reading model file: {e}")
     

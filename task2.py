@@ -96,7 +96,6 @@ def format_image(img):
     
     return resized_img
 
-
 def preprocess_image(file) -> List[float]:
     """
     Helper function to Preprocesses the uploaded image.
